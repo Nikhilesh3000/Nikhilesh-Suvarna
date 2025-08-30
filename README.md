@@ -30,6 +30,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilesh3000&layout=compact&theme=dark&hide_border=true)
 
 ---
+### 🐍 Contribution Snake
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nikhilesh3000&theme=darkhub&no-frame=true&margin-w=4)
