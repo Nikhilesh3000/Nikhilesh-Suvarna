@@ -5,6 +5,12 @@
 🚀 Always excited to collaborate on **open-source projects**.   
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhilesh3000&color=blue&style=flat-square)
+
+![GitHub followers](https://img.shields.io/github/followers/Nikhilesh3000?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Nikhilesh3000?style=social)
+
+
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin) 
