@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nikhilesh3000&theme=darkhub&no-frame=true&margin-w=4)
 
 ---
 
@@ -42,4 +42,4 @@
 ---
 
 ## 📈 Contribution Graph
-![Your Name's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact)
+![Your Name's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhilesh3000&theme=github-compact)
