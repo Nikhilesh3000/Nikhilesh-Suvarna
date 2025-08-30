@@ -26,8 +26,8 @@
 ---
 
 ## 📊 GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhilesh3000&show_icons=true&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilesh3000&layout=compact&theme=dark&hide_border=true)
 
 ---
 
