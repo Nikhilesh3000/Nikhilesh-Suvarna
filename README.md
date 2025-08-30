@@ -47,9 +47,6 @@
     |____/ \___/|_|_| |_|_|\___|
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhilesh3000&theme=react-dark)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nikhilesh3000&theme=darkhub&no-frame=true&margin-w=4)
 
