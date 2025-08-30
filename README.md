@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Nikhilesh Suvarna  
 
 🌱 Passionate **Full-Stack Web Developer** who loves building scalable and efficient solutions.  
-💻 Exploring the **MERN Stack (MongoDB, Express, React, Node.js)** and modern web technologies.  
+💻 Exploring the Stack (MongoDB,MYSQL , Express, React, Node.js)** and modern web technologies.  
 🚀 Always excited to collaborate on **open-source projects**.  
 
 ---
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_instagram) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin) 
 
 ---
@@ -21,6 +20,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
