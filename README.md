@@ -39,6 +39,17 @@
 ### 🐍 Contribution Snake
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
 
+
+     ____  _   _ _  __ _ _      
+    |  _ \| | | | |/ _(_) | ___ 
+    | | | | | | | | |_| | |/ _ \
+    | |_| | |_| | |  _| | |  __/
+    |____/ \___/|_|_| |_|_|\___|
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhilesh3000&theme=react-dark)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nikhilesh3000&theme=darkhub&no-frame=true&margin-w=4)
 
