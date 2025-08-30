@@ -2,7 +2,7 @@
 
 🌱 Passionate **Full-Stack Web Developer** who loves building scalable and efficient solutions.  
 💻 Exploring the Stack (MongoDB,MYSQL , Express, React, Node.js)** and modern web technologies.  
-🚀 Always excited to collaborate on **open-source projects**.  
+🚀 Always excited to collaborate on **open-source projects**.   
 
 ---
 
